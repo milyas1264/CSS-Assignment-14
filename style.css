@@ -6,6 +6,7 @@
 header{
     height: 60px;
     background-color: #333333;
+    
 }
 
 .nav{
@@ -62,6 +63,7 @@ li{
     text-align: center;
     
     
+    
 }
 
 .img-left{
@@ -79,6 +81,7 @@ li{
     width: 100vw;
     height: 100vh;
     background-image: url(images/img_bg_1.jpg);
+    
     
 
 }
